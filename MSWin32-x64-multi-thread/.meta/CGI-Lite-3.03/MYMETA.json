@@ -1,0 +1,56 @@
+{
+   "abstract" : "Process and decode WWW forms and cookies",
+   "author" : [
+      "Pete Houston (cpan@openstrike.co.uk)"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "ExtUtils::MakeMaker version 7.04, CPAN::Meta::Converter version 2.150001, CPAN::Meta::Converter version 2.150010",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : 2
+   },
+   "name" : "CGI-Lite",
+   "no_index" : {
+      "directory" : [
+         "t",
+         "inc"
+      ]
+   },
+   "prereqs" : {
+      "build" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "0"
+         }
+      },
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "0"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Symbol" : "0",
+            "perl" : "5.006000"
+         }
+      },
+      "test" : {
+         "requires" : {
+            "Test::More" : "0"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://rt.cpan.org/Public/Dist/Display.html?Name=CGI-Lite"
+      },
+      "repository" : {
+         "url" : "https://gitlab.com/openstrike/cgi-lite/"
+      }
+   },
+   "version" : "3.03",
+   "x_serialization_backend" : "JSON::PP version 4.02"
+}

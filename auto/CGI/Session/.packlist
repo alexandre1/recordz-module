@@ -1,0 +1,17 @@
+C:\STRAWB~1\perl\site\lib\CGI\Session.pm
+C:\STRAWB~1\perl\site\lib\CGI\Session\Driver.pm
+C:\STRAWB~1\perl\site\lib\CGI\Session\Driver\DBI.pm
+C:\STRAWB~1\perl\site\lib\CGI\Session\Driver\db_file.pm
+C:\STRAWB~1\perl\site\lib\CGI\Session\Driver\file.pm
+C:\STRAWB~1\perl\site\lib\CGI\Session\Driver\mysql.pm
+C:\STRAWB~1\perl\site\lib\CGI\Session\Driver\postgresql.pm
+C:\STRAWB~1\perl\site\lib\CGI\Session\Driver\sqlite.pm
+C:\STRAWB~1\perl\site\lib\CGI\Session\ErrorHandler.pm
+C:\STRAWB~1\perl\site\lib\CGI\Session\ID\incr.pm
+C:\STRAWB~1\perl\site\lib\CGI\Session\ID\md5.pm
+C:\STRAWB~1\perl\site\lib\CGI\Session\ID\static.pm
+C:\STRAWB~1\perl\site\lib\CGI\Session\Serialize\default.pm
+C:\STRAWB~1\perl\site\lib\CGI\Session\Serialize\freezethaw.pm
+C:\STRAWB~1\perl\site\lib\CGI\Session\Serialize\storable.pm
+C:\STRAWB~1\perl\site\lib\CGI\Session\Test\Default.pm
+C:\STRAWB~1\perl\site\lib\CGI\Session\Tutorial.pm
